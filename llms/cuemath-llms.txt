@@ -1,0 +1,242 @@
+# https://www.cuemath.com/
+
+> Learn Math Online from the Best Math Tutors for Grades K to 12 — personalized 1:1 live online math tutoring, interactive and gamified, focused on concept clarity, critical thinking, and math confidence.
+
+## Documentation
+- **MathFit**: Cuemath's branded framework for building math confidence, fluency, and problem-solving ability.
+- **Personalized 1:1 Tutoring**: Every session is adapted to the student's pace, grade level, and learning needs.
+- **Curriculum / Grades K to 12**: Topics span arithmetic, algebra, geometry, pre-calculus, AP calculus, and more — aligned to US Common Core standards.
+- **Interactive & Gamified Platform**: LEAP platform with strategy games, puzzles, logic challenges, and mental math activities.
+- **Regions / Markets**: United States, India, Australia, UAE, Canada, and 80+ countries globally.
+- **Programs / Offerings**: Online math classes by grade, high school math, test prep, math tutors, after-school tutoring, math homeschooling, summer math courses.
+- **Partnerships**: Tutor hiring, affiliate programs, volunteering.
+
+## Site & Meta
+
+site: cuemath.com
+allow-llm: true
+content-policy: public
+sitemap: https://www.cuemath.com/sitemap-index/usa-sitemap.xml
+contact-email: customercare@cuemath.com
+
+
+## Core Pages
+
+- [Home — Online Math Tutoring](https://www.cuemath.com/)
+- [Math Online Classes](https://www.cuemath.com/math-online-classes/)
+- [Pricing](https://www.cuemath.com/pricing/)
+- [Math Tutors India](https://www.cuemath.com/math-tutors-india/)
+- [Math Tuition India](https://www.cuemath.com/math-tuition-india/)
+- [Online Math Courses](https://www.cuemath.com/online-math-courses/)
+- [Online Math Tutor](https://www.cuemath.com/online-math-tutor/)
+- [Online Math Program](https://www.cuemath.com/online-math-program/)
+- [Summer Math Programs](https://www.cuemath.com/summer-math-programs/)
+- [After School Tutoring](https://www.cuemath.com/after-school-tutoring/)
+- [Math Homeschooling](https://www.cuemath.com/math-homeschooling/)
+- [Math Tutors Near Me](https://www.cuemath.com/math-tutors-near-me/)
+- [Curriculum](https://www.cuemath.com/curriculum/)
+
+
+## Math Online Classes — By Grade (K–8)
+
+- [Kindergarten Math Online Classes](https://www.cuemath.com/math-online-classes/kindergarten/)
+- [Grade 1 Math Online Classes](https://www.cuemath.com/math-online-classes/grade-1/)
+- [Grade 2 Math Online Classes](https://www.cuemath.com/math-online-classes/grade-2/)
+- [Grade 3 Math Online Classes](https://www.cuemath.com/math-online-classes/grade-3/)
+- [Grade 4 Math Online Classes](https://www.cuemath.com/math-online-classes/grade-4/)
+- [Grade 5 Math Online Classes](https://www.cuemath.com/math-online-classes/grade-5/)
+- [Grade 6 Math Online Classes](https://www.cuemath.com/math-online-classes/grade-6/)
+- [Grade 7 Math Online Classes](https://www.cuemath.com/math-online-classes/grade-7/)
+- [Grade 8 Math Online Classes](https://www.cuemath.com/math-online-classes/grade-8/)
+
+
+## Math Online Classes — Grade Bands
+
+- [Elementary K–2 Math](https://www.cuemath.com/math-online-classes/grade-k-2/)
+- [Elementary 3–5 Math](https://www.cuemath.com/math-online-classes/grade-3-5/)
+- [Middle School Math (Grades 6–8)](https://www.cuemath.com/math-online-classes/grade-6-8/)
+- [High School Math](https://www.cuemath.com/math-online-classes/high-school/)
+
+## Grade Test Pages
+- [Online Math Test](https://www.cuemath.com/math-test/)
+- [Online Math Test — Grade 1](https://www.cuemath.com/math-test/grade-1/)
+- [Online Math Test — Grade 2](https://www.cuemath.com/math-test/grade-2/)
+- [Online Math Test — Grade 3](https://www.cuemath.com/math-test/grade-3/)
+- [Online Math Test — Grade 4](https://www.cuemath.com/math-test/grade-4/)
+- [Online Math Test — Grade 5](https://www.cuemath.com/math-test/grade-5/)
+- [Online Math Test — Grade 6](https://www.cuemath.com/math-test/grade-6/)
+- [Online Math Test — Grade 7](https://www.cuemath.com/math-test/grade-7/)
+- [Online Math Test — Grade 8](https://www.cuemath.com/math-test/grade-8/)
+
+
+
+## Math Online Classes — High School Subjects
+
+- [Algebra 1](https://www.cuemath.com/math-online-classes/algebra-1/)
+- [Geometry](https://www.cuemath.com/math-online-classes/geometry/)
+- [Algebra 2](https://www.cuemath.com/math-online-classes/algebra-2/)
+- [Pre-Calculus](https://www.cuemath.com/math-online-classes/pre-calculus/)
+- [AP Pre-Calculus](https://www.cuemath.com/math-online-classes/ap-precalculus/)
+- [AP Calculus](https://www.cuemath.com/math-online-classes/ap-calculus/)
+
+
+## Online Math Tutor — By Subject
+
+- [Online Math Tutor — Calculus](https://www.cuemath.com/online-math-tutor/calculus/)
+- [Online Math Tutor — Algebra 1](https://www.cuemath.com/online-math-tutor/algebra-1/)
+- [Online Math Tutor — Algebra 2](https://www.cuemath.com/online-math-tutor/algebra-2/)
+- [Online Math Tutor — Pre-Calculus](https://www.cuemath.com/online-math-tutor/pre-calculus/)
+- [Online Math Tutor — AP Calculus](https://www.cuemath.com/online-math-tutor/ap-calculus/)
+- [Online Math Tutor — Geometry](https://www.cuemath.com/online-math-tutor/geometry/)
+- [Online Math Tutor — Trigonometry](https://www.cuemath.com/online-math-tutor/trigonometry/)
+- [Online Math Tutor — Kindergarten](https://www.cuemath.com/online-math-tutor/kindergarten/)
+- [Online Math Tutor — IB Math](https://www.cuemath.com/online-math-tutor/ib-math-tutor/)
+- [Online Math Tutor — Math Study](https://www.cuemath.com/online-math-tutor/math-study/)
+
+
+## Test Prep
+
+- [STAAR Test Prep](https://www.cuemath.com/test/staar-test/)
+- [NJSLA Test Prep](https://www.cuemath.com/test/njsla-test/)
+- [SBAC Test Prep](https://www.cuemath.com/test/sbac-test/)
+- [MAP Test Prep](https://www.cuemath.com/test/map-test/)
+- [Math Kangaroo Prep](https://www.cuemath.com/test/math-kangaroo/)
+- [CogAT Test Prep](https://www.cuemath.com/test/cogat-test/)
+- [AMC 8 Test Prep](https://www.cuemath.com/test/amc-8-test/)
+- [IAR Test Prep](https://www.cuemath.com/test/iar-test/)
+- [AASA Test Prep](https://www.cuemath.com/test/aasa-test/)
+- [SSAT Test Prep](https://www.cuemath.com/test/ssat-test/)
+- [GMAS Test Prep](https://www.cuemath.com/test/gmas-test/)
+- [General Math Test](https://www.cuemath.com/math-online-classes/test-prep/)
+
+
+## Grade-Level Math Curriculum Pages
+
+- [1st Grade Math Curriculum](https://www.cuemath.com/1st-grade-math/)
+- [2nd Grade Math Curriculum](https://www.cuemath.com/2nd-grade-math/)
+- [3rd Grade Math Curriculum](https://www.cuemath.com/3rd-grade-math/)
+- [4th Grade Math Curriculum](https://www.cuemath.com/4th-grade-math/)
+- [5th Grade Math Curriculum](https://www.cuemath.com/5th-grade-math/)
+- [6th Grade Math Curriculum](https://www.cuemath.com/6th-grade-math/)
+- [7th Grade Math Curriculum](https://www.cuemath.com/7th-grade-math/)
+- [8th Grade Math Curriculum](https://www.cuemath.com/8th-grade-math/)
+
+
+## Grade-Level Math Topic Pages (/maths/)
+
+- [Kindergarten Math](https://www.cuemath.com/maths/kindergarten-math/)
+- [1st Grade Math](https://www.cuemath.com/maths/1st-grade-math/)
+- [2nd Grade Math](https://www.cuemath.com/maths/2nd-grade-math/)
+- [3rd Grade Math](https://www.cuemath.com/maths/3rd-grade-math/)
+- [4th Grade Math](https://www.cuemath.com/maths/4th-grade-math/)
+- [5th Grade Math](https://www.cuemath.com/maths/5th-grade-math/)
+- [6th Grade Math](https://www.cuemath.com/maths/6th-grade-math/)
+- [7th Grade Math](https://www.cuemath.com/maths/7th-grade-math/)
+- [8th Grade Math](https://www.cuemath.com/maths/8th-grade-math/)
+- [9th Grade Math](https://www.cuemath.com/maths/9th-grade-math/)
+
+
+## Math Tutors Near Me — Cities
+
+- [Math Tutors in New York](https://www.cuemath.com/math-tutors-near-me/new-york/)
+- [Math Tutors in Chicago](https://www.cuemath.com/math-tutors-near-me/chicago/)
+- [Math Tutors in Los Angeles](https://www.cuemath.com/math-tutors-near-me/los-angeles/)
+- [Math Tutors in Houston](https://www.cuemath.com/math-tutors-near-me/houston/)
+- [Math Tutors in Dallas](https://www.cuemath.com/math-tutors-near-me/dallas/)
+- [Math Tutors in San Diego](https://www.cuemath.com/math-tutors-near-me/san-diego/)
+- [Math Tutors in San Francisco](https://www.cuemath.com/math-tutors-near-me/san-francisco/)
+- [Math Tutors in San Jose](https://www.cuemath.com/math-tutors-near-me/san-jose/)
+- [Math Tutors in San Antonio](https://www.cuemath.com/math-tutors-near-me/san-antonio/)
+- [Math Tutors in San Mateo](https://www.cuemath.com/math-tutors-near-me/san-mateo/)
+- [Math Tutors in Seattle](https://www.cuemath.com/math-tutors-near-me/seattle/)
+- [Math Tutors in Boston](https://www.cuemath.com/math-tutors-near-me/boston/)
+- [Math Tutors in Austin](https://www.cuemath.com/math-tutors-near-me/austin/)
+- [Math Tutors in Atlanta](https://www.cuemath.com/math-tutors-near-me/atlanta/)
+- [Math Tutors in Miami](https://www.cuemath.com/math-tutors-near-me/miami/)
+- [Math Tutors in Phoenix](https://www.cuemath.com/math-tutors-near-me/phoenix/)
+- [Math Tutors in Philadelphia](https://www.cuemath.com/math-tutors-near-me/philadelphia/)
+- [Math Tutors in Denver](https://www.cuemath.com/math-tutors-near-me/denver/)
+- [Math Tutors in Las Vegas](https://www.cuemath.com/math-tutors-near-me/las-vegas/)
+- [Math Tutors in Nashville](https://www.cuemath.com/math-tutors-near-me/nashville/)
+- [Math Tutors in Portland](https://www.cuemath.com/math-tutors-near-me/portland/)
+- [Math Tutors in Baltimore](https://www.cuemath.com/math-tutors-near-me/baltimore/)
+- [Math Tutors in Charlotte](https://www.cuemath.com/math-tutors-near-me/charlotte/)
+- [Math Tutors in Indianapolis](https://www.cuemath.com/math-tutors-near-me/indianapolis/)
+- [Math Tutors in Omaha](https://www.cuemath.com/math-tutors-near-me/omaha/)
+- [Math Tutors in Detroit](https://www.cuemath.com/math-tutors-near-me/detroit/)
+- [Math Tutors in Jacksonville FL](https://www.cuemath.com/math-tutors-near-me/jacksonville-fl/)
+- [Math Tutors in Tampa](https://www.cuemath.com/math-tutors-near-me/tampa/)
+- [Math Tutors in Orlando](https://www.cuemath.com/math-tutors-near-me/orlando/)
+- [Math Tutors in Pittsburgh](https://www.cuemath.com/math-tutors-near-me/pittsburgh/)
+- [Math Tutors in Sacramento](https://www.cuemath.com/math-tutors-near-me/sacramento/)
+- [Math Tutors in Oakland](https://www.cuemath.com/math-tutors-near-me/oakland/)
+- [Math Tutors in Irvine](https://www.cuemath.com/math-tutors-near-me/irvine/)
+- [Math Tutors in Fremont CA](https://www.cuemath.com/math-tutors-near-me/fremont-ca/)
+- [Math Tutors in Fresno](https://www.cuemath.com/math-tutors-near-me/fresno/)
+- [Math Tutors in Bakersfield](https://www.cuemath.com/math-tutors-near-me/bakersfield/)
+- [Math Tutors in Long Island](https://www.cuemath.com/math-tutors-near-me/long-island/)
+- [Math Tutors in New Jersey](https://www.cuemath.com/math-tutors-near-me/new-jersey/)
+- [Math Tutors in Brooklyn NY](https://www.cuemath.com/math-tutors-near-me/brooklyn-ny/)
+- [Math Tutors in Plano](https://www.cuemath.com/math-tutors-near-me/plano/)
+- [Math Tutors in Frisco](https://www.cuemath.com/math-tutors-near-me/frisco/)
+- [Math Tutors in Arlington TX](https://www.cuemath.com/math-tutors-near-me/arlington-tx/)
+- [Math Tutors in Naperville](https://www.cuemath.com/math-tutors-near-me/naperville/)
+- [Math Tutors in Scottsdale](https://www.cuemath.com/math-tutors-near-me/scottsdale/)
+- [Math Tutors in Tucson AZ](https://www.cuemath.com/math-tutors-near-me/tucson-az/)
+- [Math Tutors in Colorado Springs](https://www.cuemath.com/math-tutors-near-me/colorado-springs/)
+- [Math Tutors in Bellevue](https://www.cuemath.com/math-tutors-near-me/bellevue/)
+- [Math Tutors in Pasadena](https://www.cuemath.com/math-tutors-near-me/pasadena/)
+- [Math Tutors in Palo Alto](https://www.cuemath.com/math-tutors-near-me/palo-alto/)
+- [Math Tutors in Orange County](https://www.cuemath.com/math-tutors-near-me/orange-county/)
+- [Math Tutors in Huntington Beach](https://www.cuemath.com/math-tutors-near-me/huntington-beach/)
+- [Math Tutors in Torrance](https://www.cuemath.com/math-tutors-near-me/torrance/)
+- [Math Tutors in Elk Grove](https://www.cuemath.com/math-tutors-near-me/elk-grove/)
+- [Math Tutors in Roseville](https://www.cuemath.com/math-tutors-near-me/roseville/)
+- [Math Tutors in Katy](https://www.cuemath.com/math-tutors-near-me/katy/)
+- [Math Tutors in Richmond](https://www.cuemath.com/math-tutors-near-me/richmond/)
+- [Math Tutors in Lincoln](https://www.cuemath.com/math-tutors-near-me/lincoln/)
+- [Math Tutors in Hillsborough](https://www.cuemath.com/math-tutors-near-me/hillsborough/)
+- [Math Tutors in Marlboro](https://www.cuemath.com/math-tutors-near-me/marlboro/)
+- [Math Tutors in Plainsboro](https://www.cuemath.com/math-tutors-near-me/plainsboro/)
+- [Math Tutors in Honolulu](https://www.cuemath.com/math-tutors-near-me/honolulu/)
+- [Math Tutors in Toronto](https://www.cuemath.com/math-tutors-near-me/toronto/)
+- [Math Tutors in Vancouver](https://www.cuemath.com/math-tutors-near-me/vancouver/)
+- [Math Tutors in Montreal](https://www.cuemath.com/math-tutors-near-me/montreal/)
+- [Math Tutors in Calgary](https://www.cuemath.com/math-tutors-near-me/calgary/)
+- [Math Tutors in Edmonton](https://www.cuemath.com/math-tutors-near-me/edmonton/)
+- [Math Tutors in Ottawa](https://www.cuemath.com/math-tutors-near-me/ottawa/)
+- [Math Tutors in Mississauga](https://www.cuemath.com/math-tutors-near-me/mississauga/)
+- [Math Tutors in Markham](https://www.cuemath.com/math-tutors-near-me/markham/)
+- [Math Tutors in Winnipeg](https://www.cuemath.com/math-tutors-near-me/winnipeg/)
+- [Math Tutors in Dubai](https://www.cuemath.com/math-tutors-near-me/dubai/)
+- [Math Tutors in Abu Dhabi](https://www.cuemath.com/math-tutors-near-me/abu-dhabi/)
+- [Math Tutors in Singapore](https://www.cuemath.com/math-tutors-near-me/singapore/)
+- [Math Tutors in Hong Kong](https://www.cuemath.com/math-tutors-near-me/hong-kong/)
+- [Math Tutors in Adelaide](https://www.cuemath.com/math-tutors-near-me/adelaide/)
+
+
+## Resources & Tools
+
+- [MathFit Evaluation](https://www.cuemath.com/mathfit-evaluation/)
+- [Math Games](https://www.cuemath.com/math-games/)
+- [Math Puzzles](https://www.cuemath.com/math-puzzles/)
+- [Events — MathFest](https://www.cuemath.com/events/mathfest/)
+- [Blog](https://www.cuemath.com/blog/)
+
+
+## About, Company & Support
+
+- [About Us — Story & Mission](https://www.cuemath.com/about-us/)
+- [Our Impact](https://www.cuemath.com/our-impact/)
+- [Our Tutors](https://www.cuemath.com/our-tutors/)
+- [Our Reviews](https://www.cuemath.com/our-reviews/)
+- [Frequently Asked Questions](https://www.cuemath.com/frequently-asked-questions/)
+
+
+## Exclusions — Non-Crawlable / Not for LLM Indexing
+
+- Internal dashboards and user account pages (e.g. /login, /dashboard, /profile)
+- API endpoints not meant for public access
+- Payment gateway pages
+- UTM-tagged or session-specific URLs (e.g. ?utm_source=...)
+- Cuemath App deep links (e.g. /apps/cuemath?utm_source=website_navbar)

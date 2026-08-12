@@ -1,0 +1,115 @@
+generated: '2026-08-11'
+method: searched
+source: https://registry.npmjs.org/-/v1/search?text=cuemath
+note: >-
+  Three first-party packages are published to npm under the @cuemath scope by the
+  npm user `cuemath`. NONE of them is an API client library: they are internal
+  platform building blocks for Cuemath's own consumer apps (a PubNub message-scheduling
+  job runner, and shared React Native UI / platform-agnostic logic for the LEAP
+  learning app). Because Cuemath publishes no public API, no client SDK exists to
+  wrap one — so this artifact deliberately carries a `Packages` pointer in apis.yml
+  and NOT an `SDKs` pointer. Emitting `SDKs` would assert an API client surface the
+  company does not ship.
+registries_searched:
+- registry: npm
+  query: cuemath
+  hits: 3
+- registry: pypi
+  query: cuemath
+  hits: 0
+  evidence: https://pypi.org/pypi/cuemath/json returned 404
+- registry: rubygems
+  query: cuemath
+  hits: 0
+- registry: crates.io
+  query: cuemath
+  hits: 0
+- registry: packagist
+  query: cuemath
+  hits: 0
+- registry: maven-central
+  query: cuemath
+  hits: 0
+- registry: nuget
+  query: cuemath
+  hits: 0
+- registry: pkg.go.dev
+  query: cuemath
+  hits: 0
+packages:
+- language: javascript
+  registry: npm
+  name: '@cuemath/cue-message-broker'
+  url: https://www.npmjs.com/package/@cuemath/cue-message-broker
+  install: npm install @cuemath/cue-message-broker
+  official: true
+  api_client: false
+  version: 2.2.1
+  published: '2026-08-04'
+  first_published: '2023-12-07'
+  release_count: 114
+  license: MIT
+  repository: https://github.com/cuemath/package-mjq
+  description: A job scheduler for sending messages over pubnub
+  note: >-
+    Actively maintained (114 releases, latest one week before this probe), but the
+    linked GitHub repository is not public — github.com/cuemath has 0 public repos.
+- language: javascript
+  registry: npm
+  name: '@cuemath/leap-native'
+  url: https://www.npmjs.com/package/@cuemath/leap-native
+  install: npm install @cuemath/leap-native
+  official: true
+  api_client: false
+  version: 1.0.0-beta-ank
+  published: '2026-02-18'
+  first_published: '2026-02-18'
+  release_count: 1
+  license: null
+  repository: null
+  description: React Native UI components for Cuemath apps (buttons, layout, text, etc.)
+  note: >-
+    Single pre-release version published 2026-02-18 and never updated; no license,
+    no repository declared. Internal component library for Cuemath's own apps.
+- language: javascript
+  registry: npm
+  name: '@cuemath/leap-core'
+  url: https://www.npmjs.com/package/@cuemath/leap-core
+  install: npm install @cuemath/leap-core
+  official: true
+  api_client: false
+  version: 1.0.0-beta-ank
+  published: '2026-02-18'
+  first_published: '2026-02-18'
+  release_count: 1
+  license: null
+  repository: null
+  description: Shared platform-agnostic logic for Cuemath Leap (types, helpers, constants, hooks, utils)
+  note: >-
+    Single pre-release version published 2026-02-18 and never updated; no license,
+    no repository declared. Internal shared logic for Cuemath's own apps.
+source_code:
+- host: github
+  org: https://github.com/cuemath
+  status: 200
+  public_repos: 0
+  created: '2020-04-15'
+  note: >-
+    The GitHub organization exists and is first-party (blog field points at
+    www.cuemath.com), but it publishes zero public repositories, so there is no
+    open-source surface to harvest.
+x-evidence:
+  fetched: '2026-08-11'
+  probes:
+  - url: https://registry.npmjs.org/-/v1/search?text=cuemath&size=20
+    http_status: 200
+  - url: https://registry.npmjs.org/@cuemath%2Fcue-message-broker
+    http_status: 200
+  - url: https://registry.npmjs.org/@cuemath%2Fleap-native
+    http_status: 200
+  - url: https://registry.npmjs.org/@cuemath%2Fleap-core
+    http_status: 200
+  - url: https://api.github.com/orgs/cuemath
+    http_status: 200
+  - url: https://pypi.org/pypi/cuemath/json
+    http_status: 404

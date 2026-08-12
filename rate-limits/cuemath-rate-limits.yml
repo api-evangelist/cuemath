@@ -1,0 +1,32 @@
+generated: '2026-08-11'
+method: probed
+source: https://www.cuemath.com/llms.txt
+limit_count: 0
+limits: []
+note: >-
+  An honest zero. Cuemath publishes no public API, therefore no rate limits are
+  documented and none can be observed. The only HTTP API surface found on Cuemath
+  infrastructure is an internal, session-authenticated application backend
+  (app.cuemath.com/api and leap.cuemath.com/api, both HTTP 401 anonymously with
+  a JSON body and session cookie clears). No unauthenticated response carrying
+  RateLimit-*, X-RateLimit-* or Retry-After headers could be observed, because no
+  endpoint can be reached without a browser session.
+response_headers_observed: []
+headers_checked:
+- RateLimit-Limit
+- RateLimit-Remaining
+- RateLimit-Reset
+- X-RateLimit-Limit
+- X-RateLimit-Remaining
+- Retry-After
+x-evidence:
+  fetched: '2026-08-11'
+  probes:
+  - url: https://app.cuemath.com/api
+    http_status: 401
+    note: application/json, 111 bytes, no rate-limit headers present
+  - url: https://leap.cuemath.com/api
+    http_status: 401
+    note: application/json, 111 bytes, no rate-limit headers present
+  - url: https://api.cuemath.com/
+    http_status: 404

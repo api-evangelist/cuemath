@@ -1,0 +1,76 @@
+generated: '2026-08-11'
+method: searched
+source: https://www.cuemath.com/pricing/
+plan_count: 0
+plan_count_note: >-
+  plan_count is 0 because Cuemath publishes NO API plans. It has no public API,
+  no developer program and nothing to meter, so there is no API pricing tier to
+  record. The company does publish a detailed CONSUMER pricing page for its
+  one-to-one tutoring subscription, captured below under consumer_plans[] so the
+  commercial surface is on record — but those are seats in a human tutoring
+  programme, not API access, and must never be counted as API plans.
+api_plans: []
+consumer_plans:
+  currency: USD
+  unit: class
+  class_length_minutes: 40
+  free_trial: not advertised on the pricing page
+  note: >-
+    Grade-banded subscription pricing with two commitment lengths. Prices are the
+    advertised per-class rate; coaching fee is the total for the cycle. The 6-month
+    plans carry a $90 platform fee per cycle, which is waived on 12-month plans.
+  tiers:
+  - name: Grades K-G2 / G3-G5 — 6 month
+    grade_band: K-G5
+    billing_period: 6 months (26 weeks)
+    price_per_class: 17.0
+    discount: 10% OFF
+    classes_included: 52
+    coaching_fee: 884
+    platform_fee: 90
+  - name: Grades K-G2 / G3-G5 — 12 month
+    grade_band: K-G5
+    billing_period: 12 months (52 weeks)
+    price_per_class: 15.0
+    discount: 20% OFF
+    classes_included: 104
+    coaching_fee: 1560
+    platform_fee: 0
+  - name: Grades G6-G7 — 6 month
+    grade_band: G6-G7
+    billing_period: 6 months (26 weeks)
+    price_per_class: 22.5
+    discount: 10% OFF
+    classes_included: 52
+    coaching_fee: 1170
+    platform_fee: 90
+  - name: Grades G6-G7 — 12 month
+    grade_band: G6-G7
+    billing_period: 12 months (52 weeks)
+    price_per_class: 20.0
+    discount: 20% OFF
+    classes_included: 104
+    coaching_fee: 2080
+    platform_fee: 0
+  - name: Grades G8-G12 (High School) — 6 month
+    grade_band: G8-G12
+    billing_period: 6 months (26 weeks)
+    price_per_class: 28.5
+    discount: 11% OFF
+    classes_included: 52
+    coaching_fee: 1482
+    platform_fee: 90
+    includes: FREE SAT Prep Suite worth $499
+  - name: Grades G8-G12 (High School) — 12 month
+    grade_band: G8-G12
+    billing_period: 12 months (52 weeks)
+    price_per_class: 25.5
+    discount: 20% OFF
+    classes_included: 104
+    coaching_fee: 2652
+    platform_fee: 0
+    includes: FREE SAT Prep Suite worth $499
+x-evidence:
+  fetched: '2026-08-11'
+  url: https://www.cuemath.com/pricing/
+  http_status: 200
